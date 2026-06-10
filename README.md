@@ -1,3 +1,3 @@
 # Alpha Docker Images
 
-> Click here for [Production Docker Images](https://github.com/cosmicraycastbot/images)
+> Click here for [Production Docker Images](https://github.com/cosmicraycast/images)
